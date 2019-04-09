@@ -1,0 +1,9 @@
+name: flutter_env
+version: 0.0.1
+description: A Flutter version manager
+author: Forelax
+homepage: https://github.com/ForelaxX/flutter_env
+dependencies:
+  args: ^1.5.1
+executables:
+  fltenv: fltenv
